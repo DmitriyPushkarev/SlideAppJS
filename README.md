@@ -1,2 +1,2 @@
 # SlideAppJS
- Slider foto
+ Slider foto of JS
